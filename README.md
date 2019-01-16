@@ -1,2 +1,4 @@
 # baidutieba_spider
 这是一个百度贴吧的图片爬虫
+程序需要爬虫所需Python环境
+程序没有异常处理
